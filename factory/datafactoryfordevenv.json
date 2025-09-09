@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryfordevenv",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1b5a53f-c505-47e0-a57d-a2bc0c468f55",
+		"tenantId": "38c9fab0-e54c-479a-b2ed-7a8754a6a0dc"
+	}
+}
